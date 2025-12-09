@@ -1,3 +1,1 @@
-let http = require("http");
-
-console.log(http);
+console.log("config.js 3.2");
